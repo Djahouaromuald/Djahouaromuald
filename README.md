@@ -21,7 +21,7 @@
 ### 👨‍💻 Langages & Programmation
 [![My Skills](https://skillicons.dev/icons?i=py,r&theme=light&perline=7)](https://skillicons.dev)
 <a href="https://github.com/Djahouaromuald/ton-projet-vba">
-  <img src="https://raw.githubusercontent.com/Djahouaromuald/custom-skill-icons/main/icons/vba.jpg"
+  <img src="https://raw.githubusercontent.com/Djahouaromuald/custom-skill-icons/main/icons/vba.png"
        width="50"
        style="border-radius: 1px;"
        alt="VBA icon" />
