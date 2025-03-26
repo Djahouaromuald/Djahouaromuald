@@ -1,4 +1,4 @@
-# 👋🏽 Salut, moi c’est Romuald DJAHOUA
+# Bonjour ! moi c’est Romuald DJAHOUA
 
 🎓 Étudiant en 3e année de BUT Science des Données à l’IUT de Lisieux  
 💼 Alternant au Département de l'Eure, au sein de la Direction solidarité  
@@ -22,7 +22,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,r&theme=light&perline=7)](https://skillicons.dev)
 <a href="https://github.com/Djahouaromuald/ton-projet-vba">
   <img src="https://raw.githubusercontent.com/Djahouaromuald/custom-skill-icons/main/icons/vba.png"
-       width="50"
+       width="48"
        style="border-radius: 12px;"
        alt="VBA icon" />
 </a>
