@@ -19,7 +19,9 @@
 ## 🛠️ Compétences techniques
 
 ### 👨‍💻 Langages & Programmation
-[![My Skills](https://skillicons.dev/icons?i=py,r&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r&theme=light&perline=7)](https://skillicons.dev)
+![VBA](https://raw.githubusercontent.com/Djahouaromuald/custom-skill-icons/main/icons/vba.jpg)
+
 
 ### 🧠 My Skills
 
