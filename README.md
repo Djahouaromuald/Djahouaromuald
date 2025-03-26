@@ -19,10 +19,7 @@
 ## 🛠️ Compétences techniques
 
 ### 👨‍💻 Langages & Programmation
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-185ADB?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=py,r&theme=dark&perline=7)](https://skillicons.dev)
 
 ### 🧠 My Skills
 
