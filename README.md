@@ -20,7 +20,13 @@
 
 ### 👨‍💻 Langages & Programmation
 [![My Skills](https://skillicons.dev/icons?i=py,r&theme=light&perline=7)](https://skillicons.dev)
-![VBA](https://raw.githubusercontent.com/Djahouaromuald/custom-skill-icons/main/icons/vba.jpg)
+<a href="https://github.com/Djahouaromuald/ton-projet-vba">
+  <img src="https://raw.githubusercontent.com/Djahouaromuald/custom-skill-icons/main/icons/vba.jpg"
+       width="50"
+       style="border-radius: 1px;"
+       alt="VBA icon" />
+</a>
+
 
 
 ### 🧠 My Skills
