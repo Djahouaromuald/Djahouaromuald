@@ -23,7 +23,7 @@
 <a href="https://github.com/Djahouaromuald/ton-projet-vba">
   <img src="https://raw.githubusercontent.com/Djahouaromuald/custom-skill-icons/main/icons/vba.png"
        width="50"
-       style="border-radius: 1px;"
+       style="border-radius: 12px;"
        alt="VBA icon" />
 </a>
 
