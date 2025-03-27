@@ -33,7 +33,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-150458?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-150458?style=for-the-badge&logo=r&logoColor=white)
 ![dplyr](https://img.shields.io/badge/dplyr-150458?style=for-the-badge&logo=r&logoColor=white)
-
 ![FactoMineR](https://img.shields.io/badge/FactoMineR-150458?style=for-the-badge&logo=r&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-150458?style=for-the-badge&logo=keras&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-150458?style=for-the-badge&logo=xgboost&logoColor=white)
@@ -71,5 +70,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romuald-djahoua/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/4realromi/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Djahaouaromuald)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Djahouaromuald)
 [![Mail](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:djahouaromuald@gmail.com)
