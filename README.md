@@ -1,24 +1,24 @@
 # Bonjour ! moi c’est Romuald DJAHOUA
 
-🎓 Étudiant en 3e année de BUT Science des Données à l’IUT de Lisieux  
-💼 Alternant au Département de l'Eure, au sein de la Direction solidarité  
-🌍 Passionné par l’analyse de données, le machine learning et la visualisation  
-📂 Je mets peu à peu en ligne mes projets académiques et personnels sur ce profil  
+Étudiant en 3e année de BUT Science des Données à l’IUT de Lisieux  
+Alternant au Département de l'Eure, au sein de la Direction solidarité  
+Passionné par l’analyse de données, le machine learning et la visualisation  
+Je mets peu à peu en ligne mes projets académiques et personnels sur ce profil  
 
 ---
 
-## 🚀 Projets récents
+## Projets récents
 
-- 🧠 **Classification de champignons (comestible/toxique)** – Modèles KNN & Arbre de Décision  
-- 💬 **Système de messagerie avec Redis + interface graphique (tkinter)**  
-- 📦 **Analyse des avis clients Olist (NLP + Deep learning)**  
+-  **Classification de champignons (comestible/toxique)** – Modèles KNN & Arbre de Décision  
+- **Système de messagerie avec Redis + interface graphique (tkinter)**  
+-  **Analyse des avis clients Olist (NLP + Deep learning)**  
 - 🌐 [Portfolio en ligne](https://github.com/Djahaouaromuald/PortfolioRomuald.io)
 
 ---
 
-## 🛠️ Compétences techniques
+##  Compétences techniques
 
-### 👨‍💻 Langages & Programmation
+### Langages & Programmation
 ![Python](https://img.shields.io/badge/Python-003B57?style=for-the-badge&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-003B57?style=for-the-badge&logo=r&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-003B57?style=for-the-badge&logo=SAS&logoColor=white)
@@ -26,7 +26,7 @@
 
 ---
 
-### 📚 Librairies & Frameworks
+### Librairies & Frameworks
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-150458?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-150458?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -42,7 +42,7 @@
 
 ---
 
-### 🗄️ SGBD & Outils Data
+### 🗄SGBD & Outils Data
 ![SQL](https://img.shields.io/badge/SQL-1B263B?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1B263B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-1B263B?style=for-the-badge&logo=redis&logoColor=white)
@@ -53,7 +53,7 @@
 
 ---
 
-### 🧰 Autres outils
+### Autres outils
 ![Jupyter](https://img.shields.io/badge/Jupyter-2F1B47?style=for-the-badge&logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-2F1B47?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-2F1B47?style=for-the-badge&logo=powerbi&logoColor=white)
@@ -66,7 +66,7 @@
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romuald-djahoua/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/4realromi/)
