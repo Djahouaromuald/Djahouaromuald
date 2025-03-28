@@ -42,7 +42,7 @@ Je mets peu à peu en ligne mes projets académiques et personnels sur ce profil
 
 ---
 
-### 🗄SGBD & Outils Data
+### 🛢️SGBD & Outils Data
 ![SQL](https://img.shields.io/badge/SQL-1B263B?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1B263B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-1B263B?style=for-the-badge&logo=redis&logoColor=white)
