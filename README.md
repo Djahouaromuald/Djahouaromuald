@@ -18,7 +18,7 @@ Je mets peu à peu en ligne mes projets académiques et personnels sur ce profil
 
 ##  Compétences techniques
 
-### Langages & Programmation
+### 👨🏾‍💻Langages & Programmation
 ![Python](https://img.shields.io/badge/Python-003B57?style=for-the-badge&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-003B57?style=for-the-badge&logo=r&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-003B57?style=for-the-badge&logo=SAS&logoColor=white)
@@ -66,7 +66,7 @@ Je mets peu à peu en ligne mes projets académiques et personnels sur ce profil
 
 ---
 
-## Me contacter
+## 📥 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romuald-djahoua/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/4realromi/)
