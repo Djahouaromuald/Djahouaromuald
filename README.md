@@ -11,7 +11,7 @@ Je mets peu à peu en ligne mes projets académiques et personnels sur ce profil
 
 -  **Classification de champignons (comestible/toxique)** – Modèles KNN & Arbre de Décision  
 - **Système de messagerie avec Redis + interface graphique (tkinter)**  
--  **Analyse des avis clients Olist (NLP + Deep learning)**  
+-  [**Analyse des avis clients Olist (NLP + Deep learning**)](https://github.com/Djahouaromuald/Analyse-des-avis-clients-Olist-NLP-Deep-learning-)  
 - 🌐 [Portfolio en ligne](https://github.com/Djahaouaromuald/PortfolioRomuald.io)
 
 ---
