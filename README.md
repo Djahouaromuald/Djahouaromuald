@@ -1,6 +1,6 @@
 # Bonjour ! moi c’est Romuald DJAHOUA
 
-Étudiant en 3e année de BUT Science des Données à l’IUT de Lisieu  
+Étudiant en 3e année de BUT Science des Données à l’IUT de Lisieux  
 Alternant au Département de l'Eure, au sein de la Direction solidarité  
 Passionné par l’analyse de données, le machine learning et la visualisation  
 Je mets peu à peu en ligne mes projets académiques et personnels sur ce profil  
