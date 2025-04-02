@@ -1,4 +1,4 @@
-# Bonjour ! moi c’est Romuald DJAHOU
+# Bonjour ! moi c’est Romuald DJAHOUA
 
 Étudiant en 3e année de BUT Science des Données à l’IUT de Lisieux  
 Alternant au Département de l'Eure, au sein de la Direction solidarité  
